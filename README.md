@@ -1,8 +1,5 @@
 
 <p align="center">
-<a href="(https://github.com/botfront/botfront/actions">
-    <img src="https://github.com/botfront/botfront/workflows/build/badge.svg" />
-</a>
 <a href="https://www.npmjs.com/package/botfront">
     <img alt="npm" src="https://img.shields.io/npm/v/botfront.svg">
 </a>
